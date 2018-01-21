@@ -4,7 +4,7 @@ This is a simple program which creates a 'template' for a doubly ended queue(sim
 
 ## Sample Usage
 
-Here's how a deque of integers or strings can be created
+Here's how a simple deque of integers can be created
 
 ```c++
 
